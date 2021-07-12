@@ -1,1 +1,7 @@
 pandas
+jupyter
+pyyaml
+strsimpy
+tdda
+requests
+
