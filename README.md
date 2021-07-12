@@ -1,2 +1,8 @@
 # schemas-for-schemaless
 Illustrations for ICBO 2021 submission
+
+```Bash
+python3.9 -m venv venv                                
+source venv/bin/activate
+pip install -r requirements.txt
+```
