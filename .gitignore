@@ -1,5 +1,11 @@
 .DS_Store
 .idea
+bacteria-archaea-traits
+linkml-model-enrichment
+*.db
+*.owl
+rdftab
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
