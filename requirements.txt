@@ -1,7 +1,18 @@
-pandas
 jupyter
 pyyaml
-strsimpy
 tdda
-requests
 
+click >= 7.1.2
+dataclasses >= 0.6
+linkml >= 1.0.0
+linkml-model
+mkdocs
+pandas >= 1.2.3
+python-dateutil >= 2.8.1
+#PyYAML >= 5.3.1
+#rdflib >= 5.0.0
+requests >= 2.25.1
+setuptools >= 54.2.0
+strsimpy >= 0.2.0
+psycopg2-binary
+click_log
