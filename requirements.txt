@@ -16,3 +16,6 @@ setuptools >= 54.2.0
 strsimpy >= 0.2.0
 psycopg2-binary
 click_log
+
+# git+https://github.com/turbomam/scoped-mapping.git
+scoped_mapping
