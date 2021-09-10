@@ -1,21 +1,24 @@
-jupyter
-pyyaml
-tdda
+# black?
 
 click >= 7.1.2
+click_log
 dataclasses >= 0.6
+jupyter
 linkml >= 1.0.0
 linkml-model
 mkdocs
 pandas >= 1.2.3
+psycopg2-binary
 python-dateutil >= 2.8.1
-#PyYAML >= 5.3.1
-#rdflib >= 5.0.0
+pyyaml
 requests >= 2.25.1
 setuptools >= 54.2.0
 strsimpy >= 0.2.0
-psycopg2-binary
-click_log
+tdda
 
-# git+https://github.com/turbomam/scoped-mapping.git
 scoped_mapping
+# or
+# git+https://github.com/turbomam/scoped-mapping.git
+
+#PyYAML >= 5.3.1
+#rdflib >= 5.0.0
